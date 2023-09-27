@@ -1,0 +1,46 @@
+body{
+    color: #666666;
+    background: whitesmoke;
+    font-family: serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a{
+    color: #ff0000;
+    font-weight: bold;
+    text-decoration: dotted;
+}
+
+h1{
+    font-size: 40px;
+    color: #333;
+    font-weight: 100;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 100;
+    color: #f00;
+}
+
+
+.centro{
+    text-align: center;
+}
+
+.pt{
+    text-align: right;
+}
+
+.pj{
+    text-align: justify;
+}
+
+.link{
+    text-decoration: wavy;
+}
+
+iframe{
+    border-radius: 30px;
+}
